@@ -1,4 +1,10 @@
 # FormItPluginsList
 List of default FormIt plugins
 
-TODO instructions for moving release/pre-release tags
+To move tags, run:
+
+```git tag -f release <CommitId>```
+
+or 
+
+```git tag -f pre-release <CommitId>```
