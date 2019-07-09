@@ -8,3 +8,7 @@ To move tags, run:
 or 
 
 ```git tag -f pre-release <CommitId>```
+
+To push tags, run:
+
+```git push origin --tags -f```
