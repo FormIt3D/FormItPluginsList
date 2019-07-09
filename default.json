@@ -1,10 +1,10 @@
 [
     {
         "version":17.4,
-        "plugins":["https://formit3d.github.io/FormItExamplePlugins/PluginManagerPlugin", "https://formit3d.github.io/FormItWorkflowPlugins/SetLocation/v1"]
+        "plugins":["https://formit3d.github.io/FormItExamplePlugins/PluginManagerPlugin", "https://formit3d.github.io/SetLocationPlugin"]
     },
     {
         "version":18.0,
-        "plugins":["https://formit3d.github.io/FormItExamplePlugins/PluginManagerPlugin", "https://formit3d.github.io/FormItWorkflowPlugins/SetLocation/v1"]
+        "plugins":["https://formit3d.github.io/FormItExamplePlugins/PluginManagerPlugin", "https://formit3d.github.io/SetLocationPlugin"]
     }
 ]
