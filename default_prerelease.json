@@ -5,5 +5,12 @@
             "minor":0
         },
         "plugins":["https://formit3d.github.io/FormItExamplePlugins/PluginManagerPlugin"]
+    },
+    {
+        "version":{
+            "major":20,
+            "minor":0
+        },
+        "plugins":["https://formit3d.github.io/FormItExamplePlugins/PluginManagerPlugin", "https://formit3d.github.io/SetLocationPlugin/v20_0"]
     }
 ]
