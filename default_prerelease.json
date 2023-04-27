@@ -12,5 +12,12 @@
             "minor":0
         },
         "plugins":["https://formit3d.github.io/PluginManager", "https://formit3d.github.io/SetLocationPlugin"]
+    },
+    {
+        "version":{
+            "major":24,
+            "minor":0
+        },
+        "plugins":["https://formit3d.github.io/PluginManager", "https://formit3d.github.io/SetLocationPlugin", "https://formit3d.github.io/FormItFormaLoginWrapper/"]
     }
 ]
